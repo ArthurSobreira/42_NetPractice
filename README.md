@@ -16,4 +16,10 @@
 
 ## The Project
 
-* To configure the networks mentioned before, the project provides us some web pages with incomplete network diagrams that we need to solve to go forward:
+* To configure the networks mentioned before, the project provides some web pages with incomplete network diagrams that we need to solve to go forward:
+
+<div align="center">
+   <a href="https://github.com/ArthurSobreira/42_NetPractice" target="_blank">
+      <img height=500 src="NetPractice.png" hspace = "10">
+   </a>
+</div>
